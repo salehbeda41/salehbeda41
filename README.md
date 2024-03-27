@@ -1,6 +1,6 @@
-- 👋 Hi, I’m saleh bedda
-- 👀 I’m interested in Web Development & Embedded Systems
-- 🌱 I’m currently learning  Python & React.js
+- 👋 Hi, I’m Saleh Bedda
+- 👀 I’m interested in Web Development & Embedded Systems & AI
+- 🌱 I’m currently learning  Python & React.js & AI concepts
 - 📫 How to reach me ... salehbeda41@gmail.com
 
 <!---
