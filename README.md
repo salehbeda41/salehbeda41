@@ -17,7 +17,7 @@ I'm a **Computer Science** student passionate about **Web Development**, **Embed
 
 ## 📫 How to Reach Me
 - **Email**: [salehbbeda41@gmail.com](mailto:salehbbeda41@gmail.com)
-- **LinkedIn**: [linkedin.com/in/salehbbeda41](https://www.linkedin.com/in/salehbbeda41)
+- **LinkedIn**: [linkedin.com/in/salehbedda](https://www.linkedin.com/in/salehbedda/)
 
 ---
 
