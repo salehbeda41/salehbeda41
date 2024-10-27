@@ -1,11 +1,11 @@
 # 👋 Hi, I'm Saleh Bedda
 
-I'm a **Computer Science** student with a strong interest in **Web Development**, **Embedded Systems**, and **Artificial Intelligence**. Currently, I'm focused on building a foundation in **Python**, **React.js**, and expanding my understanding of **AI concepts** like Data Science and Computer Vision.
+I'm a **Computer Science** student passionate about **Web Development**, **Embedded Systems**, and **Artificial Intelligence**. I'm currently focused on building a strong foundation in **Python**, **Django**, and advancing my understanding of **AI concepts** like Data Science and Computer Vision.
 
 ---
 
 ## 🌱 What I’m Working On
-- **Python and React.js** for Web Development projects
+- **Python and Django** for Web Development projects
 - **AI and Data Science fundamentals**, including **Machine Learning** and **Computer Vision**
 
 ## 🎯 2024 Goals
@@ -17,6 +17,7 @@ I'm a **Computer Science** student with a strong interest in **Web Development**
 
 ## 📫 How to Reach Me
 - **Email**: [salehbbeda41@gmail.com](mailto:salehbbeda41@gmail.com)
+- **LinkedIn**: [linkedin.com/in/salehbbeda41](https://www.linkedin.com/in/salehbbeda41)
 
 ---
 
